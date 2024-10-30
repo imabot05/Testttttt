@@ -1,4 +1,4 @@
-
+# https://github.com/DoDucLong15/TTUD/blob/master/CK_ex1_20231.cpp
 from collections import defaultdict, deque
 import queue
 
